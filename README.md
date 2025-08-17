@@ -113,6 +113,7 @@ Follow these instructions to set up and run the project locally.
 ## 📁 File Structure
 
 Here is an overview of the key files in the project repository:
+```
 .
 ├── climate-smart-frontend/ # Next.js frontend application
 ├── Ne_10m_data/          # Geospatial data files
@@ -121,7 +122,7 @@ Here is an overview of the key files in the project repository:
 ├── package.json          # Node.js project configuration
 ├── requirements.txt      # Python dependencies
 ├── safe_zones_landonly.csv # CSV file with safe zone coordinates
-
+```
 ***
 
 ## ✍️ Authors
